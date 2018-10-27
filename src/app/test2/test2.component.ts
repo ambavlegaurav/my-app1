@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class Test2Component implements OnInit {
   public id ="hello "
-  public isDisabled = false
+  public isDisabled = true
     constructor() { }
 
   ngOnInit() {
